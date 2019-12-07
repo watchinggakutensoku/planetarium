@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PhantomCollider
+  - Platform
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Phantom
+  - Platform
+  - Floor
+  - Ball
+  - Player
+  - Wood
+  - Wall
+  - Frame
+  - CharacterWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3245765031
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Track
+    uniqueID: 243121767
+    locked: 0
+  - name: Player
+    uniqueID: 1377618021
+    locked: 0
+  - name: Paddle
+    uniqueID: 3958666085
+    locked: 0
+  - name: Frame
+    uniqueID: 3355490915
+    locked: 0
